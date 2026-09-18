@@ -5,9 +5,9 @@
     "java.compile.nullAnalysis.mode": "automatic",
     "java.configuration.updateBuildConfiguration": "automatic",
     "java.format.settings.url": "./eclipse-java-google-style.xml",
-    "java.format.enabled": false,
+    "java.format.enabled": true,
     "[java]": {
-      "files.trimTrailingWhitespace": false,
+      "files.trimTrailingWhitespace": true,
       "spotlessGradle.diagnostics.enable": true,
       "spotlessGradle.format.enable": true,
       "editor.defaultFormatter": "richardwillis.vscode-spotless-gradle",
@@ -16,7 +16,7 @@
       }
     },
     "[gradle]": {
-      "files.trimTrailingWhitespace": false,
+      "files.trimTrailingWhitespace": true,
       "spotlessGradle.diagnostics.enable": true,
       "spotlessGradle.format.enable": true,
       "editor.defaultFormatter": "richardwillis.vscode-spotless-gradle",
