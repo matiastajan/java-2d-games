@@ -1,3 +1,3 @@
-# java-2d-games
+# Java 2D Games
 
 Hello :D
