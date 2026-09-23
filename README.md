@@ -1,3 +1,3 @@
-# Java 2D Games
+# Java 2D Games Tutorial
 
 Hello :D
