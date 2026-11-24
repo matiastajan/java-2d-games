@@ -23,5 +23,6 @@
       "editor.codeActionsOnSave": {
         "source.fixAll.spotlessGradle": "explicit"
       }
-    }
+    },
+    "java.debug.settings.onBuildFailureProceed": true
 }
