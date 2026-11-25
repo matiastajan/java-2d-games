@@ -9,7 +9,7 @@ import javax.swing.JPanel;
 This class inherites JPanel class.
 */
 
-public class GamePanel extends JPanel implement Runnable {
+public class GamePanel extends JPanel implements Runnable {
     // SCREEN SETTINGS
     final int originalTileSize = 16; //16x16 tile
     final int scale = 3;
@@ -33,7 +33,9 @@ public class GamePanel extends JPanel implement Runnable {
         gameThread.start();
     }
 
-    public voud run() { // game loop
-
+    public void run() { // game loop
+        while(gameThread != null) {
+            System.out.println("The game loop is running");
+        }
     }
 }

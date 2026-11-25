@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../java-starter-app"
+		},
+		{
+			"path": "../../../java-starter-lib"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.format.settings.url": "./eclipse-java-google-style.xml",
+		"java.format.enabled": true,
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
