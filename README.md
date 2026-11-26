@@ -6,4 +6,4 @@ This the YouTube playlist: https://www.youtube.com/watch?v=om59cwR7psI&list=PL_Q
 
 | Video (curently): | Time Stampt: |
 | :--- | :--- |
-| 3/68 | 0:00 |
+| 3/68 | 8:48 |
