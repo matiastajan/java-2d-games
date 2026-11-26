@@ -5,11 +5,11 @@ import java.awt.event.KeyListener;
 
 public class KeyHandler implements KeyListener { // *KeyListener ---> The listener interface for reciving keyboard events (keystrokes).
     public boolean upPressed, downPressed, leftPressed, rightPressed;
-    /*
+
     @Override
     public void keyTyped(KeyEvent e) {
+        // ><>
     }
-    */
 
     @Override
     public void keyPressed(KeyEvent e) {
